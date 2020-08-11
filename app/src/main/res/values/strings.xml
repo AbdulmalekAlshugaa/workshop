@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoFirebaseApp</string>
+    <string name="create_an_account">Create an Account</string>
+</resources>
